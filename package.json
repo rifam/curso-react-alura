@@ -9,7 +9,7 @@
     "materialize-css": "^1.0.0-rc.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "validator": "^12.2.0"
   },
   "scripts": {
